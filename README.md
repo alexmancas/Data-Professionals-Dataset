@@ -6,8 +6,11 @@ https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Pr
 
 # Data-Cleaning 
 -Checking missing data
+
 -Outlier Removal
+
 -Removal of duplicates
+
 -Creating and splitting columns
 
 # Visualisation 
